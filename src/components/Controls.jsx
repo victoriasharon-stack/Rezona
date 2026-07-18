@@ -63,5 +63,4 @@ export default function Controls({
       {isProcessing && <div className="controls__status">Detecting notes…</div>}
     </div>
   )
-
 }
